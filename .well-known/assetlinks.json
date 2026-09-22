@@ -1,0 +1,12 @@
+[                                                                                                                                                                                  
+    {                                                                                                                                                                                
+      "relation": ["delegate_permission/common.handle_all_urls"],                                                                                                                    
+      "target": {                                                                                                                                                                    
+        "namespace": "android_app",                                                                                                                                                  
+        "package_name": "com.fubtol.kenalxcorp",                                                                                                                                     
+        "sha256_cert_fingerprints": [                                                                                                                                                
+          "88:55:2D:57:09:39:5B:75:BA:00:5D:0B:8D:63:65:DE:F5:29:FC:29:5A:34:2E:C0:29:9A:43:64:F6:5F:FC:B0"                                                                          
+        ]                                                                                                                                                                            
+      }                                                                                                                                                                              
+    }                                                                                                                                                                                
+]        
